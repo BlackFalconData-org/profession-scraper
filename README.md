@@ -10,6 +10,7 @@ Extract structured data from [profession.hu](https://profession.hu) — job list
 
 
 
+
 **Search with filters** — Search by keyword and location. Filter by employment type, remote / hybrid, experience level, and more.
 
 **Detail enrichment** — Fetch full job descriptions, salary data, direct apply URLs for each listing.
@@ -19,6 +20,7 @@ Extract structured data from [profession.hu](https://profession.hu) — job list
 ---
 
 ## Use cases
+
 
 
 
@@ -85,6 +87,7 @@ Each listing gets a content hash. On subsequent runs, only new or changed listin
 ---
 
 ## Related products by Black Falcon Data
+
 
 
 
